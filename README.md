@@ -20,4 +20,6 @@ x AdminUser -> STI
 
 ## UI:
 
+## Refactor TODOS:
+- refactore user assocaition in post.spect
 - Bootstrap -> formatting
