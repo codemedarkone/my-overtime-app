@@ -5,10 +5,10 @@
 
 ## Models
 
-- Post -> date:date rationale:text
-x User -> Devise
-x AdminUser -> STI
-- Features:
+- x Post -> date:date rationale:text
+- x User -> Devise
+- x AdminUser -> STI
+- x Features:
 
 ## Features:
 
@@ -19,7 +19,8 @@ x AdminUser -> STI
 - Needs to be documented if employee did not log overtime
 
 ## UI:
+- Bootstrap -> formatting
 
 ## Refactor TODOS:
 - refactore user assocaition in post.spect
-- Bootstrap -> formatting
+
