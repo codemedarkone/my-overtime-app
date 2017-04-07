@@ -7,7 +7,7 @@ end
 
 gem 'rails', '~> 5.0.2'
 gem 'pg', '~> 0.18'
-gem 'puma', '~> 3.0'
+
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
@@ -37,3 +37,4 @@ gem 'gritter', '~> 1.2'
 gem 'administrate', '~> 0.5.0'
 gem 'bourbon'
 gem 'pundit', '~> 1.1'
+gem 'puma', '~> 3.8', '>= 3.8.2'
