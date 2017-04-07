@@ -20,10 +20,12 @@ before_action :set_post, only: [:show, :edit, :update, :destroy]
   end
 
   def edit
-
+    authorize @post
   end
 
   def update
+    authorize @post
+    
     if @post.update(post_params)
       redirect_to @post, notice: 'Your post was edited successufully'
     else
