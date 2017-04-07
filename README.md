@@ -25,4 +25,5 @@
 
 ## Refactor TODOS:
 - refactore user assocaition in post.spect
+- Refactore posts/_form for admin user with status
 
