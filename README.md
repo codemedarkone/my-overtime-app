@@ -25,7 +25,9 @@
 - x Icons from lgyphicons
 - x Update the styles for forms
 
-## Refactor TODOS:
-- refactore user assocaition in post.spect
-- Refactore posts/_form for admin user with status
+## TODOS:
+- Integrate validation for phone attr in User:
+  # no spaces or dashes
+  # exactly 10 characters
+  # all characters have to be a number
 
