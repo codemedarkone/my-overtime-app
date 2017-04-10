@@ -40,3 +40,4 @@ gem 'pundit', '~> 1.1'
 gem 'puma', '~> 3.8', '>= 3.8.2'
 gem 'twilio-ruby', '~> 4.11', '>= 4.11.1'
 gem 'dotenv-rails' , :groups => [:development, :test]
+gem 'kaminari', '~> 1.0', '>= 1.0.1'
